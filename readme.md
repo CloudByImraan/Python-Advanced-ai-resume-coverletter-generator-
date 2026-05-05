@@ -206,4 +206,7 @@ This project demonstrates:
 * File handling and automation
 * Clean modular project structure
 
-👉 A strong portfolio project for showcasing AI + Python skills.
+👉 A Ministrong portfolio project for showcasing AI + Python skills.
+
+💡 This project demonstrates my current approach and can be further enhanced with more advanced features and optimizations.
+📌 Built as part of my early learning phase in machine learning and application development.
